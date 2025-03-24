@@ -1,16 +1,27 @@
-## Hi there 👋
+# Meu Portfólio de Projetos
 
-<!--
-**Rodrigogrnja/rodrigogrnja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório de projetos! Meu nome é Rodrigo Granja, aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada acadêmica e profissional. Meu foco é em **desenvolvimento de software**, com ênfase em **back-end** e tecnologias como **Python**, **HTML5**, **CSS** e **JavaScript**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:** Python, HTML5, CSS, JavaScript
+- **Frameworks e Ferramentas:** Pycharm, Django e VScode
+- **Versionamento:** Git, GitHub
+
+## 💼 Sobre Mim
+
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou no **segundo período**. Tenho uma vaga  experiência nas linguagens de programação que foram ditas anteriormente, estou sempre em busca de aprimorar minhas habilidades técnicas. Meu foco é crescer como desenvolvedor back-end, buscando sempre aplicar boas práticas e aprender com cada projeto que realizo.
+
+
+## 📫 Contato
+
+- **Email:** Rodrigogrnja@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/rodrigo-granja-6813162b0/?trk=opento_sprofile_pfeditor
+- **GitHub:** https://github.com/Rodrigogrnja
+
+##
+<!-- GitHub Stats with Top Languages -->
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrnja&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogrnja&layout=compact&theme=tokyonight)
+
+##
