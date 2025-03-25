@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório de projetos! Meu nome é Rodrigo Granja, aqui voc�
 
 ## 💼 Sobre Mim
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou no **segundo período**. Tenho uma vaga  experiência nas linguagens de programação que foram ditas anteriormente, estou sempre em busca de aprimorar minhas habilidades técnicas. Meu foco é crescer como desenvolvedor back-end, buscando sempre aplicar boas práticas e aprender com cada projeto que realizo.
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou no **segundo período**. Possuo 19 anos, e tenho uma vaga  experiência nas linguagens que foram ditas anteriormente, estou sempre em busca de aprimorar minhas habilidades técnicas. Meu foco é crescer como desenvolvedor back-end, buscando sempre aplicar boas práticas e aprender com cada projeto que realizo.
 
 
 ## 📫 Contato
