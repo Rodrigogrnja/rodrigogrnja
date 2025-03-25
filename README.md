@@ -1,6 +1,6 @@
 # Meu Portfólio de Projetos
 
-Bem-vindo ao meu repositório de projetos! Meu nome é Rodrigo Granja, aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada acadêmica e profissional. Meu foco é em **desenvolvimento de software**, com ênfase em **back-end** e tecnologias como **Python**, **HTML5**, **CSS** e **JavaScript**.
+Bem-vindo ao meu repositório de projetos! Meu nome é Rodrigo Granja, aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada acadêmica e profissional. Meu foco é no **desenvolvimento back-end** e tecnologias como **Python**, **HTML5**, **CSS** e **JavaScript**.
 
 ## 🚀 Tecnologias
 
