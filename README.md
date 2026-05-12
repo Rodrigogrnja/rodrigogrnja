@@ -18,9 +18,3 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estou no
 - **Email:** Rodrigogrnja@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rodrigo-granja-6813162b0/?trk=opento_sprofile_pfeditor
 
-##
-<!-- GitHub Stats with Top Languages -->
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrnja&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogrnja&layout=compact&theme=tokyonight)
-
-##
